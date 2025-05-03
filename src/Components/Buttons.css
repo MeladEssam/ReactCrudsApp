@@ -1,0 +1,29 @@
+.edit-btn {
+  background-color: #0b0e0f85 !important;
+  border: transparent !important;
+}
+.delete-btn {
+  background-color: #462422 !important;
+  background-color: rgb(219 53 69) !important;
+  border: transparent !important;
+}
+.view-btn {
+  background-color: #2a3546 !important;
+  border: transparent !important;
+}
+.edit-btn:focus,
+.delete-btn:focus,
+.view-btn:focus {
+  border: transparent !important;
+  box-shadow: 0 0 0;
+  outline: 0;
+}
+.view-btn:hover {
+  background-color: #272e34 !important;
+}
+.edit-btn:hover {
+  background-color: #0b2c46 !important;
+}
+.delete-btn:hover {
+  background-color: #471b1b !important;
+}

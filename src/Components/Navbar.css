@@ -1,0 +1,35 @@
+.logo img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.mynav {
+  background-color: #12151b;
+}
+
+.mynav button {
+  color: #fff;
+}
+.mynav .nav-item .nav-link {
+  color: #fff;
+  padding: 10px;
+  font-size: 18px;
+}
+.mynav .nav-item .nav-link:hover,
+.mynav .nav-item .nav-link:focus {
+  color: #7cf03d;
+}
+.navbar-toggler,
+.navbar-toggler:focus {
+  background-color: #7cf03d !important;
+
+  border: none;
+}
+.navbar-toggler .navbar-toggler-icon {
+  box-shadow: none;
+  border: none;
+}
+.navbar-toggler:focus {
+  box-shadow: 0 0 0 !important;
+}

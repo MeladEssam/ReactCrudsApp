@@ -1,0 +1,23 @@
+.products-table {
+  --bs-table-color: #fff !important;
+  --bs-table-bg: #1a2633 !important;
+  --bs-table-border-color: #233746 !important;
+  --bs-table-striped-bg: #151e27 !important;
+  --bs-table-striped-color: #fff !important;
+  --bs-table-active-bg: #26445b !important;
+  --bs-table-active-color: #fff !important;
+  --bs-table-hover-bg: #323539 !important;
+  --bs-table-hover-color: #fff !important;
+  color: var(--bs-table-color) !important;
+  border-color: #35393c3d !important;
+}
+
+.products-table thead th {
+  background-color: #101921;
+  font-weight: bold;
+  font-size: 20px;
+  color: #dee87c;
+}
+.products-title {
+  color: #f1ff65 !important;
+}

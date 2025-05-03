@@ -1,0 +1,14 @@
+.sidebarLinks ul {
+  list-style: none;
+}
+.sidebarLinks ul li {
+  padding: 10px;
+}
+.sidebarLinks ul li .link {
+  text-decoration: none;
+  color: #fff;
+  transition-duration: 0.3s;
+}
+.sidebarLinks ul li .link:hover {
+  color: rgb(128, 241, 128);
+}
