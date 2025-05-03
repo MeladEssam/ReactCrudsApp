@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactCrudsApp/static/css/main.7a9ed43a.css",
+    "main.js": "/ReactCrudsApp/static/js/main.9aa78ec9.js",
+    "static/media/image-1.jpg": "/ReactCrudsApp/static/media/image-1.742b157066efac94fdbd.jpg",
+    "static/media/logo.jpg": "/ReactCrudsApp/static/media/logo.abefbbb486d31b584ff3.jpg",
+    "static/media/image-3.jpg": "/ReactCrudsApp/static/media/image-3.c04aeb105d0cb9aef9cb.jpg",
+    "index.html": "/ReactCrudsApp/index.html",
+    "main.7a9ed43a.css.map": "/ReactCrudsApp/static/css/main.7a9ed43a.css.map",
+    "main.9aa78ec9.js.map": "/ReactCrudsApp/static/js/main.9aa78ec9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a9ed43a.css",
+    "static/js/main.9aa78ec9.js"
+  ]
+}
